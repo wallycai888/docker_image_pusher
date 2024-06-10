@@ -7,3 +7,8 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 ailg/alist
 ailg/xiaoya-tvbox
+xiaoyaliu/alist
+haroldli/xiaoya-tvbox
+xiaoyaliu/glue
+xiaoyaliu/jellyfin
+xiaoyaliu/emby
